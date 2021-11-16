@@ -2,7 +2,9 @@
 A project to work on with Paige for fun.
 
 #Project Ideas
+
 Simply a quick brainstorm of things I think I would find fun.
+
 1. Instructional base code to teach algorithms.
 2. A visual representation of a cool recursive solution for educational purposes.
 3. An introduction to coding concepts, data structures, and algorithms for friends and family of computer scientists. 
