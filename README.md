@@ -1,7 +1,7 @@
 # PoalForFun
 A project to work on with Paige for fun.
 
-# Project Ideas
+# Noal Project Ideas
 
 Simply a quick brainstorm of things I think I could find fun.
 
