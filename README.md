@@ -1,6 +1,12 @@
 # PoalForFun
 A project to work on with Paige for fun.
 
+# Discussion Notes
+
+Some ideas that seemed to be exciting for both of us:
+- procedurally generated environments (leaves? Trees?) (Java with [LWJGL](https://www.lwjgl.org/))
+- teach an AI to play a video game (tensorflow)
+
 # Noal Project Ideas
 
 Simply a quick brainstorm of things I think I could find fun.
